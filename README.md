@@ -37,7 +37,7 @@ Every result is audited with the same pipeline:
 - Gap bootstrap (real vs. permuted)
 
 This pipeline is shared across all EventHorizon products and available as a
-standalone library: **[honest‑validation‑toolkit](https://github.com/seu-usuario/honest-validation-toolkit)**.
+standalone library: **[honest‑validation‑toolkit](https://github.com/EventHorizon-ia/honest-validation-toolkit)**.
 
 ---
 
@@ -54,8 +54,8 @@ eventhorizon-crypto/
 
 ## Links
 
-- [Main Hub](https://github.com/seu-usuario/eventhorizon-ai)
-- [Research Notebook](https://github.com/seu-usuario/crypto-h0-edge)
+- [Main Hub](https://github.com/EventHorizon-ia/eventhorizon-ai)
+- [Research Notebook](https://github.com/EventHorizon-ia/crypto-h0-edge)
 - [Public Audit Dashboard](https://eventhorizon-ia.github.io/trader-ai/dashboard-en.html)
 
 ---
