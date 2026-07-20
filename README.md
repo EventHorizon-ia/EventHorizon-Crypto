@@ -54,7 +54,7 @@ eventhorizon-crypto/
 
 ## Links
 
-- [Main Hub](https://github.com/EventHorizon-ia/eventhorizon-ai)
+- [Main Hub](https://github.com/EventHorizon-ia/eventhorizon)
 - [Research Notebook](https://github.com/EventHorizon-ia/crypto-h0-edge)
 - [Public Audit Dashboard](https://eventhorizon-ia.github.io/trader-ai/dashboard-en.html)
 
