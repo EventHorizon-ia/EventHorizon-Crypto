@@ -1,0 +1,24 @@
+{
+  "name": "TRADER AI",
+  "short_name": "TraderAI",
+  "description": "Sistema de Trading com IA Adaptativa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060b14",
+  "theme_color": "#0d1a28",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/foto.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "apple touch icon"
+    }
+  ]
+}
