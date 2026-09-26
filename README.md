@@ -43,12 +43,14 @@ standalone library: **[honest‑validation‑toolkit](https://github.com/EventHo
 
 ## Repository Structure
 
+```text
 eventhorizon-crypto/
-├── bot/ # Trading bot and execution engine
-├── dashboard/ # Public audit dashboard (Next.js)
-├── models/ # Model checkpoints and inference code
-├── validation/ # Walk‑forward, bootstrap, permutation scripts
+├── bot/              # Trading bot and execution engine
+├── dashboard/        # Public audit dashboard (Next.js)
+├── models/           # Model checkpoints and inference code
+├── validation/       # Walk-forward, bootstrap, permutation scripts
 └── README.md
+```
 
 ---
 
