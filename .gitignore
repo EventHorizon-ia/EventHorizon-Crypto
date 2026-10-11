@@ -1,2 +1,4 @@
 node_modules/
 .next/
+gitleaks-report.json/
+api.py/
