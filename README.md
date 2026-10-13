@@ -110,14 +110,13 @@ The trade was then closed at the price five seconds after the signal.
 **Conclusion:** the strategy was economically unviable under the tested
 execution assumptions.
 
-
 ---
 
 ## Links
 
 - [EventHorizon-AI Hub](https://github.com/EventHorizon-ia/EventHorizon)
 - [Crypto Research](https://github.com/EventHorizon-ia/crypto-h0-edge)
-- [Public Audit Dashboard](https://eventhorizon-ia.github.io/trader-ai/dashboard-en.html)
+- [Public Audit Dashboard](https://eventhorizon-ia.github.io/EventHorizon/)
 
 ---
 
