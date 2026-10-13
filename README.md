@@ -116,7 +116,7 @@ execution assumptions.
 
 - [EventHorizon-AI Hub](https://github.com/EventHorizon-ia/EventHorizon)
 - [Crypto Research](https://github.com/EventHorizon-ia/crypto-h0-edge)
-- [Public Audit Dashboard](https://eventhorizon-ia.github.io/EventHorizon/)
+- [Public Audit Dashboard](https://eventhorizon-ia.github.io/EventHorizon/dashboard-en.html)
 
 ---
 
